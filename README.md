@@ -1,2 +1,1 @@
-# prephenry
-Este es un repositorio de prueba del módulo 2 del prepcourse de henry 
+Prueba de como crear un repositorio y luego cloarlo desde github a mi escritorio local. 
